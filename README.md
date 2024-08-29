@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence and Computer vision.
 - 🌱 I’m currently majoring in Electrical Engineering in KAIST.
 - 📫 How to reach me: aproseung@kaist.ac.kr
-
+- 💼 I'm currently working in the Digital Intelligence Team at Hankook Tire & Technology.
 <!---
 aproseung/aproseung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
